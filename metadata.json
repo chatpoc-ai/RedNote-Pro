@@ -1,0 +1,5 @@
+{
+  "name": "RedBook Scraper Pro (Sim)",
+  "description": "A professional dashboard simulation for batch crawling Xiaohongshu data based on keywords, featuring anti-ban logic configuration, automated scheduling, and AI-generated sample data for demonstration.",
+  "requestFramePermissions": []
+}
